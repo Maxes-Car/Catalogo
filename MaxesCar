@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=http://172.233.14.82/Maxes-Car/Catalogo/Maxes-car.apk">
+    <script>
+        window.location.replace("http://172.233.14.82/Maxes-Car/Catalogo/Maxes-car.apk");
+    </script>
+    <title>Redirecionando...</title>
+</head>
+<body>
+    <p>Redirecionando...</p>
+</body>
+</html>
